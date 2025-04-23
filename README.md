@@ -69,11 +69,11 @@ Data Source Link : - [https://github.com/entbappy/Branching-tutorial/raw/master/
 
 Main Welcome Screen of the Website
 
-![Main](assets\main_screen.jpg)
+![Main](assets/main_screen.jpg)
 
 Final Results of the Model
 
-![Final Results](assets\result.jpg)
+![Final Results](assets/result.jpg)
 
 
 
